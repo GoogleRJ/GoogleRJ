@@ -1,7 +1,7 @@
 - ♛ Oi!, eu sou Matheus Costa
 - 🌱 Atualmente estou aprendendo sobre Front-end. 
 - 💞️ Busco aprender programação para ajudar e colaborar o máximo possível no mercado de trabalho.
-- 📫 como chegar a mim? meu email é matheusdacosta.rj21@gmail.com
+- 📫 como me contactar? meu email é matheusdacosta.rj21@gmail.com
 - 
 
 <!---
